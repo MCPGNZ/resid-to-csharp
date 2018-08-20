@@ -8,6 +8,9 @@
 * c# bindings/wrappers
 * very basic sample project (using NAudio)
 
+## todo
+- [ ] decouple SidParameters from internal SID memory (don't use Read/WriteState)
+
 ## references 
 * [ReSID wikipedia](https://en.wikipedia.org/wiki/ReSID)  
 * [ReSID source code](http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/resid/index.html)
