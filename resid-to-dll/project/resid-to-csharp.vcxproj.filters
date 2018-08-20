@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="resid-0.16">
+      <UniqueIdentifier>{355f4862-16c0-4dbc-92fd-e0e23f2dd108}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\source\dll_defines.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\sidlib.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\envelope.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\extfilt.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\filter.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\pot.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\sid.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\siddefs.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\spline.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\voice.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\resid-0.16\wave.h">
+      <Filter>resid-0.16</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\sidlib.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\envelope.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\extfilt.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\filter.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\pot.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\sid.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\version.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\voice.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave6581__ST.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave6581_P_T.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave6581_PS_.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave6581_PST.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave8580__ST.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave8580_P_T.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave8580_PS_.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\resid-0.16\wave8580_PST.cc">
+      <Filter>resid-0.16</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
