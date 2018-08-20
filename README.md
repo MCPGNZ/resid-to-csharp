@@ -1,5 +1,7 @@
 # resid-to-csharp
 
+<img src="https://i.imgur.com/S0YfJaQ.png=250x" width="256px"/>
+
 ## includes
 
 * visual studio c++ project for generating resid-0.16 dlls
